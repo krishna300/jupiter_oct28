@@ -1,0 +1,29 @@
+ctrl +f6 | restart shell
+________________________________________________________________________
+with open(r"C:\Users\SharpEl\Desktop\myfile.txt") as fp:
+    for line in fp:
+        print(line) 
+__________________________________________________________________
+with statement only works with objects that
+support the context mamangement protocol 
+i.e. they have __enter__ and __exit__ methods
+________________________________________________________________________
+__enter__ and __exit__ are known as context manager.
+
+________________________________________________________________________
+The try/finally block ensures that even if an 
+unexpected exception occurs myfile.txt will be closed.
+fp=open(r"C:\Users\SharpEl\Desktop\myfile.txt")
+try:
+    for line in fp:
+        print(line)
+finally:
+    fp.close()
+________________________________________________________________________
+scripting languages do not require the compilation step and are rather interpreted. For example,
+normally, a C program needs to be compiled before running whereas normally, 
+a scripting language like JavaScript or PHP need not be compiled.
+____________________________________________________________________________
+? any_character  windows_cmd
+. any_character  reg_exp
+\ escape_meta_character  reg_exp

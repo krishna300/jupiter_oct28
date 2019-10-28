@@ -1,0 +1,45 @@
+supervised learning >>
+
+
+with labels ..supervised learning
+without labels ...unsupervised
+
+70 % problems solved with supervised learning
+
+
+showing body temp of ppl and their reaaction(anger,sad...)..and train models
+so next time it can detect your reaction
+based on your body temperature graph
+in airports
+
+>>
+...training data
+...testing data
+...real  future predicts
+
+
+linear regression
+{{tv adver..
+radio adver...
+newspaper adver
+& sales example}}
+
+correlation =0 alternative hypothesis
+corr !=0 null hypothesis
+
+> data transformation if  required....(logarthmic transformation)...to apply linear transformation if required
+
+y= mx +c
+y,x are data points
+m,c you need to find to create your model...which has least errors
+mc can be dervied using 
+....OLS(oridinary least square )method
+.....conjugate gradient method
+
+> statistics
+RSE...Residual  standard errors
+RMSE... Residual mean square error
+Adjusted R^2
+
+
+
