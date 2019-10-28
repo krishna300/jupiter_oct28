@@ -1,0 +1,64 @@
+
+Session 4
+
+/Probability
+	..joint probability
+	..conditional probability
+	..bayes theorem
+
+/addition rule
+/multiplicative
+
+
+/dependent
+/independent
+/mutually exclusive
+/collectively exhaustive
+
+
+/event
+/sample space
+
+
+
+/what is event
+...sales is not an event it s continuous
+...selling 10 Million products is event
+....achivening 10 % growth is event
+
+we go with 
+/achivening 10 % growth as our  event
+
+>=10%
+<10%
+/these are mutually exclusive
+/mutually exclusive events use addition rule
+
+
+/sample space is collection of all events
+
+/continuancy table
+...relate two categorical variables
+        wrong      | right
+sick	unsick(1)   sick
+unsick   sick(2)    unsick
+1>false negitive
+2>false positive
+
+
+/this table is very imp like to say 
+	 how probably if "a" is sick and test says unsick
+
+/lemon : a used car which is bad in quality
+/peach : used car in good quality
+/sample space is always collectively exhaustive
+
+
+
+
+
+P(A)P(NA) P(S)P(NS) -marginals(/no reference to second dimension)
+
+Joints P(SnA)
+
+Condiional P(S|A)
