@@ -1,0 +1,22 @@
+
+27 aug -31 aug >R
+10 sep -4 oct >python
+3sep -14 oct> sup learning regrssion
+
+19 sep-28 nov >tabuleau
+
+19 nov -13 jan >data management systems
+
+12 nov -14 nov >ensemble techniques
+
+21 jan -23 jan >intro to analytics
+
+2 sep -18 sep > statistical methods for decision making
+
+22 oct -25 oct > supervised lear classification
+
+10 dec -12 dec >text mining and sentiment analysis
+
+3 dec -6 dec > tim series forecasting
+
+29 oct -31 oct >unsupervised learning

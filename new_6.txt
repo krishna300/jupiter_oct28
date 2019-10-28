@@ -1,0 +1,17 @@
+class("def")
+[1] "character"
+> class(b)
+[1] "character"
+> assign("x",c(1,3,5,7))
+> x
+[1] 1 3 5 7
+> y=c(2,4,6,8)
+> y
+[1] 2 4 6 8l
+
+ u=c("den","hut","couch")
+> u
+[1] "den"   "hut"   "couch"
+> length(u)
+[1] 3
+> 
